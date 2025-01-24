@@ -106,7 +106,7 @@
       <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
-          <version>3.9.6</version>
+          <version>3.3.1</version>
         </plugin>
         <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
         <plugin>
@@ -123,7 +123,7 @@
         </plugin>
         <plugin>
           <artifactId>maven-war-plugin</artifactId>
-          <version>3.9.6</version>
+          <version>3.3.1</version>
         </plugin>
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
